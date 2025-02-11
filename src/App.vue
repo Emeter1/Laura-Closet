@@ -17,9 +17,6 @@ import Footer from './components/MyFooter.vue'
   <Brandss />
   <Summer />
   <Footer />
-  <section>
-    <h1>my ass</h1>
-  </section>
 </template>
 
 <style scoped></style>
